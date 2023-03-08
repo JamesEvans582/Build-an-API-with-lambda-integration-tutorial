@@ -25,7 +25,7 @@ So now we need to create the resource. Click actions then create resource.
 <img width="1792" alt="Screenshot 2023-02-11 at 07 54 12" src="https://user-images.githubusercontent.com/71371405/218248486-9343e697-c7d2-419b-a6a0-b0e86eace191.png">
 Type in the resource name, then click create resource. 
 
-That's great, we have resource but what action does it take, and how. This is where we create a method. So once again click action. We will put in the name and use a GET method, then click create.
+That's great, we have resource but what action does it take, and how? This is where we create a method. So once again click action. We will put in the name and use a GET method, then click create.
 
 Once you have done these stages, you're nearly there. So lets click on Deploy API
 
@@ -33,7 +33,7 @@ Once you have done these stages, you're nearly there. So lets click on Deploy AP
 
 In the deployment stage enter new, then enter the stage name, we're testing, so put testing API, and enter a brief description and deploy.
 
-Final stage we need to invoke the URL and make the API is connecting to Lamda.
+Final stage we need to invoke the URL and make sure the API is connecting to Lamda.
 <img width="1792" alt="Screenshot 2023-02-11 at 08 02 05" src="https://user-images.githubusercontent.com/71371405/218249428-2ab9015c-f03c-45d7-8973-714c1a1c628d.png">
 
 Click the link. Which will take you to a browser. You need to /whizlabsapi to test that it has validated. If it has it should look like the picture below.
